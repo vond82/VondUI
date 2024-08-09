@@ -8,12 +8,12 @@ This is *very much* a WIP and so far only AST and SGE are supported. More jobs w
 #### Pre-reqs
 - DelvUI
 - DelvCD
-- MaterialUI
 - LMeter
 - [Rodin Bold font](https://github.com/vond82/VondUI/blob/main/Rodin%20Bold.ttf)
-- Penumbra* (If going with YoRHa UI as recommended)
 #### Recommended
 - Chat2
+- [MaterialUI Reborn](https://discord.com/channels/878296899331973120/879335622127534140/924639396525899866)
+- [Penumbra](https://discord.com/channels/878296899331973120/879335622127534140/924639396525899866) (Required for YoRHa UI)
 - [YoRHa UI](https://heliosphere.app/mod/q0wkpyem217s7cbj4spa5wm26c) (For NieR icons and theme)
 - YoRHa Dark Dalamud Theme (Available from the Dalamud Discord)
   
