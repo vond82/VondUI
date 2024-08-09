@@ -13,6 +13,7 @@ This is *very much* a WIP and so far only AST and SGE are supported. More jobs w
 - [Rodin Bold font](https://github.com/vond82/VondUI/blob/main/Rodin%20Bold.ttf)
 - Penumbra* (If going with YoRHa UI as recommended)
 #### Recommended
+- Chat2
 - [YoRHa UI](https://heliosphere.app/mod/q0wkpyem217s7cbj4spa5wm26c) (For NieR icons and theme)
 - YoRHa Dark Dalamud Theme (Available from the Dalamud Discord)
   
