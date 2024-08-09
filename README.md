@@ -10,7 +10,7 @@ This is *very much* a WIP and so far only AST and SGE are supported. More jobs w
 - DelvCD
 - MaterialUI
 - LMeter
-- Rodin Bold font
+- [Rodin Bold font](https://github.com/vond82/VondUI/blob/main/Rodin%20Bold.ttf)
 - Penumbra* (If going with YoRHa UI as recommended)
 #### Recommended
 - [YoRHa UI](https://heliosphere.app/mod/q0wkpyem217s7cbj4spa5wm26c) (For NieR icons and theme)
