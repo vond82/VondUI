@@ -10,9 +10,11 @@ This is *very much* a WIP and so far only AST and SGE are supported. More jobs w
 - DelvCD
 - MaterialUI
 - LMeter
-- Penumbra (*If going with YoRHa UI as recommended)
+- Rodin Bold font
+- Penumbra* (If going with YoRHa UI as recommended)
 #### Recommended
 - [YoRHa UI](https://heliosphere.app/mod/q0wkpyem217s7cbj4spa5wm26c) (For NieR icons and theme)
 - YoRHa Dark Dalamud Theme (Available from the Dalamud Discord)
   
 Threw this up just before I'm going out of town for a couple of days so more previews etc will come later including a proper changelog as there are some minor changes here and there compared to "standard VondUI".
+One of the things I want to test is if the font works properly as is or not as I'm not sure about how that works now and don't have time to test before heading out.
