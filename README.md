@@ -5,6 +5,8 @@ Users of VondUI will feel right at home and the only differences are to the look
 
 This is *very much* a WIP and so far only AST, SGE and DNC are supported. More jobs will be added shortly, focus is to get all the basic stuff correct first.
 
+---
+
 ### Required and Optional Mods/Plugins
 
 > DelvUI, DelvCD, LMeter
@@ -76,7 +78,5 @@ This is *very much* a WIP and so far only AST, SGE and DNC are supported. More j
 * When they're done.
   
 </details>
+
 ---
-  
-Threw this up just before I'm going out of town for a couple of days so more previews etc will come later including a proper changelog as there are some minor changes here and there compared to "standard VondUI".
-One of the things I want to test is if the font works properly as is or not as I'm not sure about how that works now and don't have time to test before heading out.
