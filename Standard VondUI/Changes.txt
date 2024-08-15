@@ -1,0 +1,30 @@
+ALL jobs:
+- Resized main cooldowns to 44x44 to fit new DelvUI unitframe size
+- Uses dynamic groups for main cooldowns, the proc/buff trackers and job/role. Also repositioned to fit new size
+
+DRG:
+- Nastrond, Stardriver and Wyrmwind Thrust now uses job gauge to check for availability
+- Stack-tracker added to Nastrond
+
+SAM:
+- Hissatsu: Guren, Hissatsu: Gyoten and Hissatsu: Yaten now uses job gauge to check for availability
+- Removed Tengetsu tracker and made Third Eye use adjusted action when above lvl 82
+- Grouped and readjusted some combo abilities
+
+NIN:
+- Removed Dokumori tracker and made Mug use adjusted action when above lvl 66
+- Bhavacakra now uses job gauge to check for availability
+
+RPR:
+- Lots of reorganizing to be able to create dynamic groups
+
+VPR:
+- Lots of reorganizing to be able to create dynamic groups
+
+SMN:
+- Reorganized just about everything to make dynamic groups possible
+  * Probably should do a complete rewrite at some point but saving that til later
+
+DNC:
+- Saber Dance now uses job gauge to check for availability
+- Resized Procs to all be the same size
