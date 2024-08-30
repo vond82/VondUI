@@ -80,3 +80,5 @@ This is *very much* a WIP and so far only AST, SGE, DNC, VPR and PLD are support
 </details>
 
 ---
+
+[Optional Ko-Fi donations](https://ko-fi.com/vondui)
